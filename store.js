@@ -33,7 +33,7 @@ const markdown = `### Tutorial
 -	Head to the front entrance of the cave and warp back to Gatefront grace. Ride southwest through the gate and up the path, once you reach the golden tree, turn left to double back and head south. Defeat MINIBOSS 3: HALBERD GOLEM by the large ruin
 -	Head east to Stormhill Evergaol and defeat BOSS 10: CRUCIBLE KNIGHT
 
-### Limgrave North
+### Limgrave East & South
 -	Head northwest past the golden tree and up a small ridge to light the Stormhill Shack site of grace
 -	Speak to the Red Cloaked Woman and exhaust all dialogue options
 -	Head northeast and pass under the massive viaduct and make your way towards the colosseum and prepare to fight MINIBOSS 4: RECUSANT HENRICUS. Then open the doors to Limgrave Colosseum while you’re here
