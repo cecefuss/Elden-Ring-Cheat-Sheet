@@ -33,7 +33,7 @@ const markdown = `### Tutorial
 -	Head to the front entrance of the cave and warp back to Gatefront grace. Ride southwest through the gate and up the path, once you reach the golden tree, turn left to double back and head south. Defeat MINIBOSS 3: HALBERD GOLEM by the large ruin
 -	Head east to Stormhill Evergaol and defeat BOSS 10: CRUCIBLE KNIGHT
 
-### Limgrave East & South
+### Limgrave North
 -	Head northwest past the golden tree and up a small ridge to light the Stormhill Shack site of grace
 -	Speak to the Red Cloaked Woman and exhaust all dialogue options
 -	Head northeast and pass under the massive viaduct and make your way towards the colosseum and prepare to fight MINIBOSS 4: RECUSANT HENRICUS. Then open the doors to Limgrave Colosseum while you’re here
@@ -52,7 +52,7 @@ const markdown = `### Tutorial
 -	Head south from the church and drop down using a Spiritspring Jump then head left into the cave with a brazier outside. Exhaust Alexander Iron Fist’s dialogue and rest at the Gael Tunnel Rear Entrance Grace
 -	Head back out of the cave and go due south using two Spiritspring Jumps along the way and rest at the Third Church of Marika Grace. Pick up the Flask of Wondrous Physick
 
-### Limgrave North
+### Limgrave East & South
 -	Head west from the church until you reach a large ruin making a makeshift bridge over the path. Hop on top and exhaust Kenneth Haight’s dialogue
 -	Keep heading south along the path and rest at the Mistwood Outskirts on your left
 -	Head southwest along the dirt road until you reach a chunk of ruin on your right, head north around that and keep going north until you can rest at the Artist’s Shack Grace
